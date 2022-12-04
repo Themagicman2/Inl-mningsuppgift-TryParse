@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L488knnMY6l+icFJ+FMHv0zcl9/WBzkC6EuMGSPDwGBDRL85l+UzLehYJjEPFRY9E5MJ8uuY/CrU6Uw/REdIBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrfir\\Documents\\GitHub\\tryparsse\\tryparsse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrfir\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mrfir\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mrfir\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\mrfir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
